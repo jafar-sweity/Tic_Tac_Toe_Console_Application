@@ -19,7 +19,7 @@ Grab a friend, claim your marker, and battle it out on the legendary 3x3 grid.
 ## Why Play Jafar's X-O Game? 🤩
 
 Because:
-- And it’s made with love by **Jafar Sweity**.
+-  it’s made with love by **Jafar Sweity**.
 
 ---
 
